@@ -1,6 +1,5 @@
 node_modules
-.idea/runConfigurations
+.idea/workspace.xml
+.idea/tasks.xml
 .idea/shelf
-.idea/dataSources.ids
-.idea/dataSources.xml
 
