@@ -8,5 +8,4 @@ ADD ./ /var/www
 WORKDIR /var/www
 RUN npm install
 
-
-CMD echo hello
+CMD nodejs bin/www
